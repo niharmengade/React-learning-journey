@@ -15,3 +15,10 @@ state management, event handling and UI or design.
 - HTML
 - CSS
 - Vite
+
+## 🌐 Live Project
+You can view the live version of this project here:
+
+🔗 https://react-learning-journey-murex.vercel.app
+
+
