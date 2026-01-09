@@ -10,4 +10,4 @@ This project is a beginner-level React application built from my own idea to str
 
 ## 🔗 Links To My Projects
 
-- **Personal Card**: https://react-learning-journey-murex.vercel.app/
+- **Personal Card**: https://react-learning-journey-n13s.vercel.app/
