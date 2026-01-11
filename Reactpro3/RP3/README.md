@@ -47,6 +47,6 @@ This project helped me understand and apply:
 3. Password is generated instantly  
 4. Click **Copy** to copy the password to clipboard
 
-## Check the live project 
+## 🌐 Check the live project 
 🔐Password generator : https://react-learning-journey-imz1.vercel.app/
 
