@@ -40,3 +40,5 @@ Managing UI bugs caused by CSS vs logic
 Tailwind hover, transition & gradient utilities
 
 Debugging real-world frontend issues
+
+## 🌐 Check out the live project 
